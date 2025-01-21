@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/mrabidakash"><img src="https://api.daily.dev/devcards/v2/61qWzUGFU9CxWVPFk9fQa.png?type=default&r=6fk" width="356" alt="Abidur Rahman's Dev Card"/></a>
 <a href="https://app.daily.dev/mrabidakash"><img src="https://api.daily.dev/devcards/v2/61qWzUGFU9CxWVPFk9fQa.png?type=wide&r=6fk" width="652" alt="Abidur Rahman's Dev Card"/></a>
